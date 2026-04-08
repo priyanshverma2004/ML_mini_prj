@@ -82,4 +82,5 @@ This model can help businesses take proactive steps to reduce customer loss.
 ---
 
 ## 👨‍💻 Author
-- Prasannashree B
+- Priyansh Verma
+  
